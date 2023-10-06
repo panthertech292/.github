@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Welcome!
+## This is the main Organzation that tracks all the repo's for FRC team 292, Panthertech.
+This code may not be the *best*, but we give it our all. Feel free to look around and use our code for inspiration.
 <!--
 
 **Here are some ideas to get you started:**
