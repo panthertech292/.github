@@ -3,7 +3,7 @@
 This code may not be the *best*, but we give it our all. Feel free to look around and use our code for inspiration.
 
 Vendor Library Links (Putting them here, instead of searching everywhere for them)
-- CTRE - https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2023-latest.json
+- CTRE - https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json
 - REV - https://software-metadata.revrobotics.com/REVLib-2024.json
 - PathPlanner - https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json
 
